@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: forme
-Version: 0.0.1
+Version: 1.0.0
 Summary: The package that I use it useful
 Author-email: Bahk InSung <insung.park123@gmail.com>
 License: Copyright 2022. Bahk InSung.
@@ -17,10 +17,14 @@ Project-URL: Bug Tracker, https://github.com/insung3511/forme/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
-Requires-Python: >=3.9.13
+Requires-Python: >=3.8.0
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
 # For me Python Module Package
 
-I made a python module that I usally use. That's it.
+I made a python module that I usally use. That's it. 
+
+## compare_checker.py
+
+Just compare the two input lists, are shape is same.
